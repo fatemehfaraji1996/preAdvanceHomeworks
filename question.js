@@ -9,7 +9,7 @@ D. A type of database
 ===========================================================
 2- Which package manager is bundled with Node.js by default?
 
-A. npm 
+A. npm ✅
 B. bower
 C. yarn
 D. grunt
@@ -20,12 +20,12 @@ D. grunt
 A. It is present in the root directory of any Node application.
 B. It is used to define the properties of a package.
 C. It is used to update the dependencies of an application.
-D. All of the above 
+D. All of the above ✅
 
 ===========================================================
 4- Which of the following command will show all the modules installed globally?
 
-A. $ npm ls -g  
+A. $ npm ls -g  ✅
 B. $ npm ls
 C. $ node ls -g
 D. $ node ls
@@ -34,7 +34,7 @@ D. $ node ls
 5- How can you initiate a project using npm?
 
 A. npm start
-B. npm init 
+B. npm init ✅
 C. npm run
 D. npm create
 
