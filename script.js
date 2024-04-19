@@ -13,7 +13,15 @@ Write a Node.js script that utilizes the fs module to perform the following task
 
 // answer
 
-    
+    const fs = requier(fs)
+    const data ='this is a data to write to the file '
+    fs.writeFile('example.text',data,(err)=>{
+        if(err){
+            console.log(err);
+        }else{
+            console.log('uccessfully written to the file');
+        }
+    })
 
 
 // -----------------------------------------------------------------
@@ -28,3 +36,11 @@ write a code that reads the content of a file named 'example.txt' using the fs.r
 */
 
 // answer
+FileSystem.readFile('exampel.text','utf8',(err,data)=>{
+    if(err){
+        console.log(err);
+    }else{
+        data ='filecontent'
+        console.log(data);
+    }
+})

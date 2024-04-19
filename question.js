@@ -25,8 +25,8 @@ D. All of the above ✅
 ===========================================================
 4- Which of the following command will show all the modules installed globally?
 
-A. $ npm ls -g  ✅
-B. $ npm ls
+A. $ npm ls -g  
+B. $ npm ls ✅
 C. $ node ls -g
 D. $ node ls
 
@@ -41,7 +41,7 @@ D. npm create
 ===========================================================
 6- Which of the below is the correct syntax for installing the Nodemon in the Node.js application ?
 
-A. npm install nodemon 
+A. npm install nodemon ✅
 B. node install nodemon
 C. npm install node
 D. node install -l nodemon
@@ -51,7 +51,7 @@ D. node install -l nodemon
 
 A. url
 B. dir
-C. path 
+C. path ✅
 D. location
 
 ===========================================================
@@ -59,7 +59,7 @@ D. location
 
 A. Global
 B. Runtime
-C. Process 
+C. Process ✅
 D. NodeControl
 
 ===========================================================
@@ -68,7 +68,7 @@ D. NodeControl
 A. npm install -g <package-name>
 B. npm local install <package-name>
 C. npm run install <package-name>
-D. npm install <package-name> 
+D. npm install <package-name> ✅
 
 ===========================================================
 10-  What is the purpose of the --save flag in the npm install command?
@@ -84,14 +84,14 @@ D. To save the package in the package.json dependencies
 A. argv
 B. process.args
 C. arguments
-D. process.argv 
+D. process.argv ✅
 
 ===========================================================
 12- Which core module in Node.js provides asynchronous file operations?
 
 A. http
 B. url
-C. fs 
+C. fs ✅
 D. path
 
 
@@ -101,7 +101,7 @@ D. path
 A. npm init
 B. npm run
 C. npm start
-D. npm install 
+D. npm install ✅
 
 ===========================================================
 14- What is the main difference between exports and module.exports in Node.js?
@@ -114,7 +114,7 @@ D. module.exports is the legacy way to export modules.
 ===========================================================
 15- Which method is used in Node.js to import modules?
 
-A. require() 
+A. require() ✅
 B. include()
 C. import
 D. fetch()
@@ -124,14 +124,14 @@ D. fetch()
 
 A. import { module } from 'module-name'
 B. #include 'module-name'
-C. require('module-name') 
+C. require('module-name') ✅
 D. using module-name
 
 ===========================================================
 17- What is the default scope in the Node.js application ?
 
 A. global 
-B. local 
+B. local ✅
 C. global Function
 D. local to object
 
@@ -140,7 +140,7 @@ D. local to object
 
 A. node install app.js
 B. node run app.js
-C. node app.js 
+C. node app.js .✅
 D. npm app.js
 
 
@@ -149,7 +149,7 @@ D. npm app.js
 19- Which Node.js method is used to delay the execution of a function?
 
 A. process.delay()
-B. setTimeout() 
+B. setTimeout() ✅
 C. wait()
 D. sleep()
 
